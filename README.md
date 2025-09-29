@@ -2,12 +2,15 @@
 
 🎯 **Senior Data/MIS Analyst** | 💼 Recruitment Finance Specialist | 📊 Dashboard Designer | 🧠 Business-First Thinker
 
-🔍 Data Analyst | Power BI & SQL Specialist | Data Storyteller | Vendor & Recruitment Analytics | Vendor Intelligence & KPI Dashboards | Turning Data into Decisions | MIS & Compliance Reporting |  
+I’m Prakaran K Sharma—a Senior Data & MIS Analyst who transforms complexity into clarity. With 5+ years of experience, including 3+ years mastering SQL, Power BI, and Excel, I specialize in building intelligent dashboards and automated reporting systems that empower decision-makers across finance, HR, and delivery.
 
-✨ I'm a data analyst who thrives at the intersection of business logic and technical precision. With 5+ years of experience in Recruitment analytics and MIS, I specialize in transforming manual workflows into scalable, automated systems. My recent work includes building a full-stack SQL architecture for recruitment finance—replacing legacy Excel trackers with normalized schemas, stored procedures, and dashboard-ready views.
+Whether it’s optimizing recruiter KPIs, benchmarking vendor performance, or streamlining compliance reporting, I bring precision, speed, and strategic insight to every dataset.
 
-I believe in **clarity, impact, and stakeholder empathy**—whether it's designing a Power BI dashboard, optimizing a SQL schema, or mentoring junior analysts.
-
+What I bring to the table:
+- 📊 Power BI dashboards for vendor fulfillment, onboarding delays, and hiring efficiency
+- 🧠 Advanced SQL for scalable, clean data pipelines and optimized queries
+- 🔎 Audit-ready MIS reports tailored for leadership and compliance teams
+- ⚙️ DAX, data modeling, and ETL workflows that reduce manual effort and elevate reporting accuracy
 📚 🛠️ Skills & Tools
 
 **SQL Server Management Studio (SSMS)** – Schema design, indexing, referential integrity
