@@ -2,7 +2,7 @@
 
 🎯 **Senior Data/MIS Analyst** | 💼 Recruitment Finance Specialist | 📊 Dashboard Designer | 🧠 Business-First Thinker
 
-I’m Prakaran Kumar Sharma—a Senior Data & MIS Analyst who transforms complexity into clarity. With 5+ years of experience, including 3+ years mastering SQL, Power BI, and Excel, I specialize in building intelligent dashboards and automated reporting systems that empower decision-makers across finance, HR, and delivery.
+Senior Analyst who transforms complexity into clarity. With 5+ years of experience, including 3+ years mastering SQL, Power BI, and Excel, I specialize in building intelligent dashboards and automated reporting systems that empower decision-makers across finance, HR, and delivery.
 
 Whether it’s optimizing recruiter KPIs, benchmarking vendor performance, or streamlining compliance reporting, I bring precision, speed, and strategic insight to every dataset.
 
