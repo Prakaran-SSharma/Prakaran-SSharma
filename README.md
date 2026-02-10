@@ -1,3 +1,5 @@
+💫 **About Me**
+
 👋 Hi, I'm Prakaran Kumar Sharma
 
 🎯 **Senior Data/MIS Analyst** | 💼 Recruitment Finance Specialist | 📊 Dashboard Designer | 🧠 Business-First Thinker
