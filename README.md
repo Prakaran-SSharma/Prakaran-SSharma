@@ -104,19 +104,6 @@ I enjoy transforming raw data into meaningful insights that help businesses make
 - Microsoft Excel
 
 ---
-Version Control
-• Git
-• GitHub
-
-Database Tools
-• SSMS
-• pgAdmin 4
-
-Python IDEs
-• Jupyter Notebook
-• Visual Studio Code
-
----
 
 # 📂 Featured Projects
 
