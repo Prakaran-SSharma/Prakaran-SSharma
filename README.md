@@ -14,22 +14,23 @@ My experience spans the complete analytics lifecycle—from understanding busine
 🐍 Use Python (Core), Pandas, and NumPy for data cleaning, automation, and exploratory data analysis
 📋 Automate reporting processes to reduce manual effort and improve data accuracy
 🤝 Collaborate with business stakeholders to convert requirements into KPI-driven analytics solutions
+
 🛠️ Skills & Technologies
 
 Languages & Databases
-SQL Server, Advanced SQL, Python (Core)
+🛠️ SQL Server, Advanced SQL, Python (Core)
 
 Business Intelligence
-Power BI, DAX,Power Query,Data Modeling,Star Schema
+📊Power BI, DAX,Power Query,Data Modeling,Star Schema
 
 Python Libraries
-Pandas, NumPy
+🐍Pandas, NumPy
 
-Data Analysis
+📊Data Analysis
 Data Cleaning,Exploratory Data Analysis (EDA),Data Validation,KPI Development,Dashboard Design
 
 Tools
-Excel,Git,GitHub
+🤝Excel,Git,GitHub
 
 📂 Featured Projects
 📌 SQL Interview Practice (100+ SQL Questions)
