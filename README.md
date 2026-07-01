@@ -8,6 +8,7 @@ I'm a Data Analyst (Reporting & Analytics) with 6+ years of overall experience, 
 My experience spans the complete analytics lifecycle—from understanding business requirements and writing optimized SQL queries to building scalable Power BI dashboards and presenting actionable insights to stakeholders across HR, Finance, Recruitment, and Operations.
 
 🚀 What I Do
+
 📊 Build interactive Power BI dashboards for business performance monitoring
 🗄️ Develop optimized SQL solutions using Joins, CTEs, Window Functions, Views, and Stored Procedures
 📈 Design scalable Star Schema data models for high-performance reporting
@@ -16,12 +17,12 @@ My experience spans the complete analytics lifecycle—from understanding busine
 🤝 Collaborate with business stakeholders to convert requirements into KPI-driven analytics solutions
 
 🛠️ Skills & Technologies         
-                               Languages & Databases                              🛠️ SQL Server, Advanced SQL, Python (Core)
-                               Business Intelligence                              📊Power BI, DAX,Power Query,Data Modeling,Star Schema
-                               Python Libraries                                   🐍Pandas, NumPy
-                               Data Analysis                                       📊Data Cleaning,Exploratory Data Analysis (EDA),Data Validation,KPI     
-                                                                                   Development,Dashboard Design
-                               Tools                                               🤝Excel,Git,GitHub
+                              🛠️  Languages & Databases                              SQL Server, Advanced SQL, Python (Core)
+                              📊 Business Intelligence                               Power BI, DAX,Power Query,Data Modeling,Star Schema
+                              🐍 Python Libraries                                    Pandas, NumPy
+                              📊 Data Analysis                                       Data Cleaning,Exploratory Data Analysis (EDA),Data Validation,KPI     
+                                                                                      Development,Dashboard Design
+                              🤝 Tools                                               Excel,Git,GitHub
 
 📂 Featured Projects
 
