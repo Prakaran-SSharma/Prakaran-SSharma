@@ -18,13 +18,17 @@ My experience spans the complete analytics lifecycle—from understanding busine
 
 🛠️ Skills & Technologies     
 
-🛠️  Languages & Databases                            SQL Server, Advanced SQL, Python (Core).
-📊 Business Intelligence                             Power BI, DAX,Power Query,Data Modeling,Star Schema.
-🐍 Python Libraries                                  Pandas, NumPy.
-📊 Data Analysis                                     Data Cleaning,Exploratory Data Analysis (EDA),
-                                                      Data Validation, KPI Development,Dashboard Design.
-🤝 Tools                                             Excel,Git,GitHub.
+## 🛠️ Tech Stack
 
+💾 **SQL:** SQL Server • Advanced SQL • CTEs • Window Functions • Views • Stored Procedures • Query Optimization
+
+📊 **BI & Reporting:** Power BI • DAX • Power Query • Star Schema • Data Modeling • KPI Dashboards • RLS • Incremental Refresh
+
+🐍 **Python:** Python (Core) • Pandas • NumPy • Data Cleaning • EDA • Automation
+
+📈 **Analytics:** Advanced Excel • Power Pivot • Pivot Tables • XLOOKUP • Dashboard Design
+
+🚀 **Tools:** Git • GitHub • SSMS • Microsoft Excel • Power BI
 📂 Featured Projects
 
                               📌 SQL Interview Practice (100+ SQL Questions)
