@@ -14,25 +14,28 @@ My experience spans the complete analytics lifecycle—from understanding busine
 📈 Design scalable Star Schema data models for high-performance reporting.                                                                                     
 🐍 Use Python (Core), Pandas, and NumPy for data cleaning, automation, and exploratory data analysis.                                                         
 📋 Automate reporting processes to reduce manual effort and improve data accuracy.                                                                             
-🤝 Collaborate with business stakeholders to convert requirements into KPI-driven analytics solutions.
-
-🛠️ Skills & Technologies     
+🤝 Collaborate with business stakeholders to convert requirements into KPI-driven analytics solutions.     
 
 ## 🛠️ Tech Stack
 
 💾 **SQL:** 
+
 SQL Server • Advanced SQL • CTEs • Window Functions • Views • Stored Procedures • Query Optimization
 
 📊 **BI & Reporting:** 
+
 Power BI • DAX • Power Query • Star Schema • Data Modeling • KPI Dashboards • RLS • Incremental Refresh
 
 🐍 **Python:** 
+
 Python (Core) • Pandas • NumPy • Data Cleaning • EDA • Automation
 
-📈 **Analytics:** 
+📈 **Analytics:**
+
 Advanced Excel • Power Pivot • Pivot Tables • XLOOKUP • Dashboard Design
 
 🚀 **Tools:** 
+
 Git • GitHub • SSMS • Microsoft Excel • Power BI
 
 📂 **Featured Projects**
