@@ -10,11 +10,7 @@ My experience spans the complete analytics lifecycle—from understanding busine
 🚀 What I Do
 
 📊 Build interactive Power BI dashboards for business performance monitoring.  
-🗄️ Develop optimized SQL solutions using Joins, CTEs, Window Functions, Views, and Stored Procedures.
-📈 Design scalable Star Schema data models for high-performance reporting.
-🐍 Use Python (Core), Pandas, and NumPy for data cleaning, automation, and exploratory data analysis.
-📋 Automate reporting processes to reduce manual effort and improve data accuracy.
-🤝 Collaborate with business stakeholders to convert requirements into KPI-driven analytics solutions.
+🗄️ Develop optimized SQL solutions using Joins, CTEs, Window Functions, Views, and Stored Procedures.                                                              📈 Design scalable Star Schema data models for high-performance reporting.                                                                                       🐍 Use Python (Core), Pandas, and NumPy for data cleaning, automation, and exploratory data analysis.                                                           📋 Automate reporting processes to reduce manual effort and improve data accuracy.                                                                               🤝 Collaborate with business stakeholders to convert requirements into KPI-driven analytics solutions.
 
 🛠️ Skills & Technologies     
 
