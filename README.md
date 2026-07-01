@@ -20,16 +20,22 @@ My experience spans the complete analytics lifecycle—from understanding busine
 
 ## 🛠️ Tech Stack
 
-💾 **SQL:** SQL Server • Advanced SQL • CTEs • Window Functions • Views • Stored Procedures • Query Optimization
+💾 **SQL:** 
+SQL Server • Advanced SQL • CTEs • Window Functions • Views • Stored Procedures • Query Optimization
 
-📊 **BI & Reporting:** Power BI • DAX • Power Query • Star Schema • Data Modeling • KPI Dashboards • RLS • Incremental Refresh
+📊 **BI & Reporting:** 
+Power BI • DAX • Power Query • Star Schema • Data Modeling • KPI Dashboards • RLS • Incremental Refresh
 
-🐍 **Python:** Python (Core) • Pandas • NumPy • Data Cleaning • EDA • Automation
+🐍 **Python:** 
+Python (Core) • Pandas • NumPy • Data Cleaning • EDA • Automation
 
-📈 **Analytics:** Advanced Excel • Power Pivot • Pivot Tables • XLOOKUP • Dashboard Design
+📈 **Analytics:** 
+Advanced Excel • Power Pivot • Pivot Tables • XLOOKUP • Dashboard Design
 
-🚀 **Tools:** Git • GitHub • SSMS • Microsoft Excel • Power BI
-📂 Featured Projects
+🚀 **Tools:** 
+Git • GitHub • SSMS • Microsoft Excel • Power BI
+
+📂 **Featured Projects**
 
                               📌 SQL Interview Practice (100+ SQL Questions)
                               📌 Recruitment Analytics Dashboard (SQL Server + Power BI)
@@ -37,7 +43,7 @@ My experience spans the complete analytics lifecycle—from understanding busine
                               📌 Exploratory Data Analysis Projects
                               📌 NumPy Practice for Data Analytics
 
-🎯 Currently Learning
+🎯 **Currently Learning**
 
                               📌Advanced SQL Optimization
                               📌Python for Data Analytics
@@ -45,6 +51,6 @@ My experience spans the complete analytics lifecycle—from understanding busine
                               📌Data Analysis & Automation
                               📌Statistics for Data Analytics
 
-🌱 My Goal
+🌱 **My Goal**
 
 📌 To become a highly skilled Data Analyst who combines strong SQL, Power BI, and Python skills to build scalable analytics solutions that drive better business decisions.
