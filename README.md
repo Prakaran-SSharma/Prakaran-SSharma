@@ -16,12 +16,13 @@ My experience spans the complete analytics lifecycle—from understanding busine
 📋 Automate reporting processes to reduce manual effort and improve data accuracy
 🤝 Collaborate with business stakeholders to convert requirements into KPI-driven analytics solutions
 
-🛠️ Skills & Technologies         
+🛠️ Skills & Technologies     
+
                               📌🛠️  Languages & Databases                              SQL Server, Advanced SQL, Python (Core)
                               📌📊 Business Intelligence                               Power BI, DAX,Power Query,Data Modeling,Star Schema
                               📌🐍 Python Libraries                                    Pandas, NumPy
                               📌📊 Data Analysis                                       Data Cleaning,Exploratory Data Analysis (EDA),Data Validation,KPI     
-                                                                                      Development,Dashboard Design
+                                                                                        Development,Dashboard Design
                               📌🤝 Tools                                               Excel,Git,GitHub
 
 📂 Featured Projects
