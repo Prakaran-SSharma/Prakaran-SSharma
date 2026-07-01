@@ -15,44 +15,30 @@ My experience spans the complete analytics lifecycle—from understanding busine
 📋 Automate reporting processes to reduce manual effort and improve data accuracy
 🤝 Collaborate with business stakeholders to convert requirements into KPI-driven analytics solutions
 
-🛠️ Skills & Technologies
-
-Languages & Databases
-
-🛠️ SQL Server, Advanced SQL, Python (Core)
-
-Business Intelligence
-
-📊Power BI, DAX,Power Query,Data Modeling,Star Schema
-
-Python Libraries
-
-🐍Pandas, NumPy
-
-Data Analysis
-
-📊Data Cleaning,Exploratory Data Analysis (EDA),Data Validation,KPI Development,Dashboard Design
-
-Tools
-
-🤝Excel,Git,GitHub
+🛠️ Skills & Technologies         
+                               Languages & Databases                              🛠️ SQL Server, Advanced SQL, Python (Core)
+                               Business Intelligence                              📊Power BI, DAX,Power Query,Data Modeling,Star Schema
+                               Python Libraries                                   🐍Pandas, NumPy
+                               Data Analysis                                       📊Data Cleaning,Exploratory Data Analysis (EDA),Data Validation,KPI     
+                                                                                   Development,Dashboard Design
+                               Tools                                               🤝Excel,Git,GitHub
 
 📂 Featured Projects
 
-📌 SQL Interview Practice (100+ SQL Questions)
-📌 Recruitment Analytics Dashboard (SQL Server + Power BI)
-📌 HR Data Cleaning with Pandas
-📌 Exploratory Data Analysis Projects
-📌 NumPy Practice for Data Analytics
+                              📌 SQL Interview Practice (100+ SQL Questions)
+                              📌 Recruitment Analytics Dashboard (SQL Server + Power BI)
+                              📌 HR Data Cleaning with Pandas
+                              📌 Exploratory Data Analysis Projects
+                              📌 NumPy Practice for Data Analytics
 
 🎯 Currently Learning
 
-Advanced SQL Optimization
-Python for Data Analytics
-Pandas & NumPy
-Data Analysis & Automation
-Statistics for Data Analytics
+                              📌Advanced SQL Optimization
+                              📌Python for Data Analytics
+                              📌Pandas & NumPy
+                              📌Data Analysis & Automation
+                              📌Statistics for Data Analytics
 
 🌱 My Goal
 
-To become a highly skilled Data Analyst who combines strong SQL, Power BI, and Python skills to build scalable analytics solutions that drive better business decisions.
+📌 To become a highly skilled Data Analyst who combines strong SQL, Power BI, and Python skills to build scalable analytics solutions that drive better business decisions.
