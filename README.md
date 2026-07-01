@@ -26,19 +26,22 @@ I enjoy transforming raw data into meaningful insights that help businesses make
 
 # 🛠️ Tech Stack
 
-### 💾 SQL & Database
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQL](https://img.shields.io/badge/Advanced_SQL-025E8C?style=for-the-badge)
+### 💾 SQL & Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Skills**
 
 - SQL Server
-- Query Optimization
+- PostgreSQL
+- Advanced SQL
 - Joins
 - CTEs
 - Window Functions
 - Views
 - Stored Procedures
+- Query Optimization
 - Indexing
 
 ---
@@ -89,13 +92,29 @@ I enjoy transforming raw data into meaningful insights that help businesses make
 
 ---
 
-### ⚙️ Tools
+### ⚙️ Tools & IDEs
 
+- Power BI Desktop
+- SQL Server Management Studio (SSMS)
+- pgAdmin 4
+- Jupyter Notebook
+- Visual Studio Code
 - Git
 - GitHub
-- SQL Server Management Studio (SSMS)
 - Microsoft Excel
-- Power BI
+
+---
+Version Control
+• Git
+• GitHub
+
+Database Tools
+• SSMS
+• pgAdmin 4
+
+Python IDEs
+• Jupyter Notebook
+• Visual Studio Code
 
 ---
 
